@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Helvetica;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+  background-color: rgb(230, 230, 250);
+}
+
+th, td {
+  width: 300px;
+  border: 1px solid black;
+  padding: 7px;
+  text-align: left;
+  vertical-align: top;
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  word-wrap: break-word;
+}
+
+.th_link {
+  vertical-align: middle;
+}
+
+.th_info {
+  text-align: left;
+  vertical-align: top;
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  word-wrap: break-word;
+}
+
+img {
+  width: 100%;
+}
