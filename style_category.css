@@ -25,6 +25,7 @@ th, td {
 
 .th_link {
   vertical-align: middle;
+  text-align: center;
 }
 
 .th_info {
@@ -39,3 +40,8 @@ img {
   width: 100%;
 }
 
+img.cat {
+  height: 80%;
+  width: 80%;
+  text-align: center;
+}
